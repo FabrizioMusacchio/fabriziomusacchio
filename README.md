@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriziomusacchio&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriziomusacchio&layout=compact&langs_count=10"/>
 
 
 <!--
