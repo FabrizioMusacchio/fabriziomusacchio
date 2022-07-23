@@ -1,6 +1,6 @@
-<div style="text-align: center;"><a href="https://www.fabriziomusacchio.com/assets/images/pixel_tracker_logo_120px.jpg"><img src="https://www.fabriziomusacchio.com/assets/images/pixel_tracker_logo_120px.jpg" style="width: 20%;"></a></div>
-  
+<div style="text-align: center;"><a href="https://www.fabriziomusacchio.com/assets/images/pixel_tracker_logo_120px.jpg"><img src="https://www.fabriziomusacchio.com/assets/images/pixel_tracker_logo_120px.jpg" style="width: 20%;"></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriziomusacchio&layout=compact&langs_count=10/">
+</div>
 
   
 
