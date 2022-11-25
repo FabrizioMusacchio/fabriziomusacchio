@@ -5,7 +5,7 @@ Former space scientist ✨🔭, now making my way into neuroscience 🧠🔬💻
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriziomusacchio&layout=compact&langs_count=10/">
 
-
+✉️ [Blog](https://www.fabriziomusacchio.com/blog/) |  <a rel="me" href="https://fosstodon.org/@pixeltracker">Mastodon (@pixeltracker@fosstodon.org)</a>
   
 
 <!--
@@ -34,5 +34,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<a rel="me" href="https://fosstodon.org/@pixeltracker">Mastodon</a>
