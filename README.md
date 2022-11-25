@@ -3,10 +3,11 @@ Former space scientist ✨🔭, now making my way into neuroscience 🧠🔬💻
 
 👉 Computational Neuroscience, Bio-Image Analysis, Machine Learning, Behavioral Science, Space Physics, Teaching & Open Science
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriziomusacchio&layout=compact&langs_count=10/">
-
 ✉️ [Blog](https://www.fabriziomusacchio.com/blog/) |  <a rel="me" href="https://fosstodon.org/@pixeltracker">Mastodon (@pixeltracker@fosstodon.org)</a>
   
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriziomusacchio&layout=compact&langs_count=10/">
+
 
 <!--
 
