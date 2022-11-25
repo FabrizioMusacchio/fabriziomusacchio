@@ -1,3 +1,8 @@
+### Hi there 👋
+Former space scientist ✨🔭, now making my way into neuroscience 🧠🔬💻. I'm postdoc at the DZNE Research Center in Bonn, Germany.
+
+👉 Computational Neuroscience, Bio-Image Analysis, Machine Learning, Behavioral Science, Space Physics, Teaching & Open Science
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriziomusacchio&layout=compact&langs_count=10/">
 
 
@@ -10,6 +15,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabriziomusacchio"/>
 
 ### Hi there 👋
+Former space scientist ✨🔭, now making my way into neuroscience 🧠🔬💻. I'm postdoc at the DZNE Research Center in Bonn, Germany.
+
+👉 Computational Neuroscience, Bio-Image Analysis, Machine Learning, Behavioral Science, Space Physics, Teaching & Open Science
+
+
 **FabrizioMusacchio/fabriziomusacchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,3 +33,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a rel="me" href="https://fosstodon.org/@pixeltracker">Mastodon</a>
