@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 Former space scientist ✨🔭, now making my way into neuroscience 🧠🔬💻. I'm postdoc at the DZNE Research Center in Bonn, Germany.
 
 👉 Computational Neuroscience, Bio-Image Analysis, Machine Learning, Behavioral Science, Space Physics, Teaching & Open Science
