@@ -3,7 +3,6 @@ Former space scientist ✨🔭, now making my way into neuroscience 🧠🔬💻
 
 👉 Computational Neuroscience, Bio-Image Analysis, Machine Learning, Behavioral Science, Space Physics, Teaching & Open Science
 
-[Blog](https://www.fabriziomusacchio.com/blog/) |  <a rel="me" href="https://sigmoid.social/@pixeltracker">Mastodon </a>
   
-<a href="https://www.fabriziomusacchio.com"><img src="https://www.fabriziomusacchio.com/assets/images/pixel_tracker_logo_120px.jpg" style="width: 1em;"> fabriziomusacchio.com</a>
+<a href="https://www.fabriziomusacchio.com"><img src="https://www.fabriziomusacchio.com/assets/images/pixel_tracker_logo_green_100.png" style="width: 1em;"> fabriziomusacchio.com</a> |  <a rel="me" href="https://sigmoid.social/@pixeltracker">Mastodon </a>
 
